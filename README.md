@@ -1,2 +1,2 @@
 # Leetcode-SQL
-this repository contains database related query i solved in leetcode
+this repository contains database related query's i solved in leetcode
